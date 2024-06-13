@@ -1,0 +1,108 @@
+июн. 12, 2024 11:28:31 AM org.example.Main$PencilFactory <init>
+INFO: Создан экземпляр PencilFactory
+июн. 12, 2024 11:28:31 AM org.example.Main$PencilFactory showProductionStatus
+INFO: Вывод текущего состояния производства карандашей
+июн. 12, 2024 11:28:31 AM org.example.Main$PencilFactory scheduleMaintenance
+INFO: Запланировано техническое обслуживание оборудования для производства карандашей
+июн. 12, 2024 11:28:31 AM org.example.Main$PencilFactory automateProduction
+INFO: Автоматизация производственных процессов карандашей
+июн. 12, 2024 11:28:31 AM org.example.Main$PencilFactory analyzeData
+INFO: Анализ данных для оптимизации производства карандашей
+июн. 12, 2024 11:28:31 AM org.example.Main$PencilFactory customizeProduct
+INFO: Персонализация продукции карандашей: Red карандаши
+июн. 12, 2024 11:28:31 AM org.example.Main$PencilFactory prioritizeOrders
+INFO: Определение приоритета заказов на производство карандашей: [order1, order2]
+июн. 12, 2024 11:28:31 AM org.example.Main$PencilFactory handleEmergency
+INFO: Обработка аварийных ситуаций на заводе карандашей
+июн. 12, 2024 11:28:31 AM org.example.Main$PencilFactory manageEmployees
+INFO: Управление персоналом на заводе карандашей
+июн. 12, 2024 11:28:34 AM org.example.Main$PencilFactory <init>
+INFO: Создан экземпляр PencilFactory
+июн. 12, 2024 11:28:34 AM org.example.Main$PencilFactory showProductionStatus
+INFO: Вывод текущего состояния производства карандашей
+июн. 12, 2024 11:28:34 AM org.example.Main$PencilFactory scheduleMaintenance
+INFO: Запланировано техническое обслуживание оборудования для производства карандашей
+июн. 12, 2024 11:28:34 AM org.example.Main$PencilFactory automateProduction
+INFO: Автоматизация производственных процессов карандашей
+июн. 12, 2024 11:28:34 AM org.example.Main$PencilFactory analyzeData
+INFO: Анализ данных для оптимизации производства карандашей
+июн. 12, 2024 11:28:34 AM org.example.Main$PencilFactory customizeProduct
+INFO: Персонализация продукции карандашей: Red карандаши
+июн. 12, 2024 11:28:34 AM org.example.Main$PencilFactory prioritizeOrders
+INFO: Определение приоритета заказов на производство карандашей: [order1, order2]
+июн. 12, 2024 11:28:34 AM org.example.Main$PencilFactory handleEmergency
+INFO: Обработка аварийных ситуаций на заводе карандашей
+июн. 12, 2024 11:28:34 AM org.example.Main$PencilFactory manageEmployees
+INFO: Управление персоналом на заводе карандашей
+июн. 12, 2024 11:28:52 AM org.example.Main$PencilFactory <init>
+INFO: Создан экземпляр PencilFactory
+июн. 12, 2024 11:28:52 AM org.example.Main$PencilFactory showProductionStatus
+INFO: Вывод текущего состояния производства карандашей
+июн. 12, 2024 11:28:52 AM org.example.Main$PencilFactory scheduleMaintenance
+INFO: Запланировано техническое обслуживание оборудования для производства карандашей
+июн. 12, 2024 11:28:52 AM org.example.Main$PencilFactory automateProduction
+INFO: Автоматизация производственных процессов карандашей
+июн. 12, 2024 11:28:52 AM org.example.Main$PencilFactory analyzeData
+INFO: Анализ данных для оптимизации производства карандашей
+июн. 12, 2024 11:28:52 AM org.example.Main$PencilFactory customizeProduct
+INFO: Персонализация продукции карандашей: Red карандаши
+июн. 12, 2024 11:28:52 AM org.example.Main$PencilFactory prioritizeOrders
+INFO: Определение приоритета заказов на производство карандашей: [order1, order2]
+июн. 12, 2024 11:28:52 AM org.example.Main$PencilFactory handleEmergency
+INFO: Обработка аварийных ситуаций на заводе карандашей
+июн. 12, 2024 11:28:52 AM org.example.Main$PencilFactory manageEmployees
+INFO: Управление персоналом на заводе карандашей
+июн. 12, 2024 11:42:06 AM org.example.Main$PencilFactory <init>
+INFO: Создан экземпляр PencilFactory
+июн. 12, 2024 11:42:06 AM org.example.Main$PencilFactory showProductionStatus
+INFO: Вывод текущего состояния производства карандашей
+июн. 12, 2024 11:42:06 AM org.example.Main$PencilFactory scheduleMaintenance
+INFO: Запланировано техническое обслуживание оборудования для производства карандашей
+июн. 12, 2024 11:42:06 AM org.example.Main$PencilFactory automateProduction
+INFO: Автоматизация производственных процессов карандашей
+июн. 12, 2024 11:42:06 AM org.example.Main$PencilFactory analyzeData
+INFO: Анализ данных для оптимизации производства карандашей
+июн. 12, 2024 11:42:06 AM org.example.Main$PencilFactory customizeProduct
+INFO: Персонализация продукции карандашей: Red карандаши
+июн. 12, 2024 11:42:06 AM org.example.Main$PencilFactory prioritizeOrders
+INFO: Определение приоритета заказов на производство карандашей: [order1, order2]
+июн. 12, 2024 11:42:06 AM org.example.Main$PencilFactory handleEmergency
+INFO: Обработка аварийных ситуаций на заводе карандашей
+июн. 12, 2024 11:42:06 AM org.example.Main$PencilFactory manageEmployees
+INFO: Управление персоналом на заводе карандашей
+июн. 12, 2024 11:50:21 AM org.example.Main$PencilFactory <init>
+INFO: Создан экземпляр PencilFactory
+июн. 12, 2024 11:50:21 AM org.example.Main$PencilFactory showProductionStatus
+INFO: Вывод текущего состояния производства карандашей
+июн. 12, 2024 11:50:21 AM org.example.Main$PencilFactory scheduleMaintenance
+INFO: Запланировано техническое обслуживание оборудования для производства карандашей
+июн. 12, 2024 11:50:21 AM org.example.Main$PencilFactory automateProduction
+INFO: Автоматизация производственных процессов карандашей
+июн. 12, 2024 11:50:21 AM org.example.Main$PencilFactory analyzeData
+INFO: Анализ данных для оптимизации производства карандашей
+июн. 12, 2024 11:50:21 AM org.example.Main$PencilFactory customizeProduct
+INFO: Персонализация продукции карандашей: Red карандаши
+июн. 12, 2024 11:50:21 AM org.example.Main$PencilFactory prioritizeOrders
+INFO: Определение приоритета заказов на производство карандашей: [order1, order2]
+июн. 12, 2024 11:50:21 AM org.example.Main$PencilFactory handleEmergency
+WARNING: Обработка аварийных ситуаций на заводе карандашей
+июн. 12, 2024 11:50:21 AM org.example.Main$PencilFactory manageEmployees
+INFO: Управление персоналом на заводе карандашей
+июн. 13, 2024 11:47:32 AM org.example.Main$PencilFactory <init>
+INFO: Создан экземпляр PencilFactory
+июн. 13, 2024 11:47:33 AM org.example.Main$PencilFactory showProductionStatus
+INFO: Вывод текущего состояния производства карандашей
+июн. 13, 2024 11:47:33 AM org.example.Main$PencilFactory scheduleMaintenance
+INFO: Запланировано техническое обслуживание оборудования для производства карандашей
+июн. 13, 2024 11:47:33 AM org.example.Main$PencilFactory automateProduction
+INFO: Автоматизация производственных процессов карандашей
+июн. 13, 2024 11:47:33 AM org.example.Main$PencilFactory analyzeData
+INFO: Анализ данных для оптимизации производства карандашей
+июн. 13, 2024 11:47:33 AM org.example.Main$PencilFactory customizeProduct
+INFO: Персонализация продукции карандашей: Red карандаши
+июн. 13, 2024 11:47:33 AM org.example.Main$PencilFactory prioritizeOrders
+INFO: Определение приоритета заказов на производство карандашей: [order1, order2]
+июн. 13, 2024 11:47:33 AM org.example.Main$PencilFactory handleEmergency
+WARNING: Обработка аварийных ситуаций на заводе карандашей
+июн. 13, 2024 11:47:33 AM org.example.Main$PencilFactory manageEmployees
+INFO: Управление персоналом на заводе карандашей
